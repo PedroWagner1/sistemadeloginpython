@@ -8,4 +8,3 @@ da senha para este, ambos os casos retornando erros diferentes.
 
 Por se tratar de uma aplicação simples que visa o teste de conhecimento, o Banco de Dados foi desenvolvido de acordo, trata-se de um dict que armazena chaves-valor, podendo ser
 considerado em termos gerais uma forma muito simples de Banco de Dados não relacional.
-<iframe allow="fullscreen" allowfullscreen height="500" src="https://streamable.com/e/lz3vhj?" width="480" style="border:none;"></iframe>
