@@ -9,5 +9,13 @@ da senha para este, ambos os casos retornando erros diferentes.
 Por se tratar de uma aplicação simples que visa o teste de conhecimento, o Banco de Dados foi desenvolvido de acordo, trata-se de um dict que armazena chaves-valor, podendo ser
 considerado em termos gerais uma forma muito simples de Banco de Dados não relacional.
 
+<h2> Dependencias: </h2>
+<ul>
+  <li>Tkinter</li>
+  <li>CustomTkinter</li>
+</ul>
 
 <img src="https://i.postimg.cc/j2y13w3S/Captura-de-tela-2025-03-31-201335.png">
+
+
+Vídeo de Demonstração: https://streamable.com/lz3vhj
